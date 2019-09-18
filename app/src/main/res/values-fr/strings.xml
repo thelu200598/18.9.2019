@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bienvenue</string>
+    <string name="email">Email</string>
+    <string name="password">Mod de passw</string>
+    <string name="login">Indentifier</string>
+    <string name="signup">Vous n\ "avez pas de compte?\"inscrire</string>
+    <string name="changelanguage">Change de language</string>
+    <string name="app_name">Action Bar</string>
+</resources>

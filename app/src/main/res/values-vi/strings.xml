@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Chao mung</string>
+    <string name="email">Email</string>
+    <string name="password">Mat khau</string>
+    <string name="login">Dang nhap</string>
+    <string name="signup">Dang ki</string>
+    <string name="changelanguage">Thay doi ngon ngu</string>
+    <string name="app_name">Action Bar</string>
+</resources>
